@@ -1,0 +1,20 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lstn": "bin/lstn"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cli-color": "^1.4.0",
+    "cli-table": "^0.3.1",
+    "compare-versions": "^3.4.0"
+  }
+}
