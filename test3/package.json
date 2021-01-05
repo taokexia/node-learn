@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cli-color": "^1.4.0",
     "cli-table": "^0.3.1",
     "compare-versions": "^3.4.0"
